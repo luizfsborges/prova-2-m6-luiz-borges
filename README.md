@@ -21,3 +21,6 @@ Na função principal do script o vídeo carregado e lido frame a frame. Para qu
 Atendendo ao último requisito do enunciado, o vídeo de saída é registrado por meio do método write do objeto output_video. Ao término da leitura dos frames do vídeo de entrada, o objeto output_video é liberado, assim como o objeto video_capture. Por fim, todas as janelas são fechadas.
 
 O vídeo contendo as faces detectadas com o texto pode ser encontrado no diretório ./saida/out.avi, bem como abaixo:
+
+https://github.com/luizfsborges/prova-2-m6-luiz-borges/assets/40524905/2c4a3bb0-f375-4cf6-a243-8e5cf70f6eb4
+
