@@ -22,5 +22,4 @@ Atendendo ao último requisito do enunciado, o vídeo de saída é registrado po
 
 O vídeo contendo as faces detectadas com o texto pode ser encontrado no diretório ./saida/out.avi, bem como abaixo:
 
-https://github.com/luizfsborges/prova-2-m6-luiz-borges/assets/40524905/2c4a3bb0-f375-4cf6-a243-8e5cf70f6eb4
-
+https://github.com/luizfsborges/prova-2-m6-luiz-borges/assets/40524905/44ae737f-a4d5-4e38-812e-ca91dc25a11e
